@@ -20,3 +20,7 @@
     justify-content: center;
   }
   
+  body {
+    background-image: url(http://m.gettywallpapers.com/wp-content/uploads/2021/08/Cat-HD-Wallpaper.jpg);
+    backdrop-filter: blur(1px);
+}

@@ -16,11 +16,11 @@ const CatItem = ({cat}) => {
       </div>
 
       <div> <h2>Deskripsi</h2>
-      <h6 style={{color: "white"}}>{cat.description}</h6>
+      <h6 style={{color: "red"}}>{cat.description}</h6>
       </div>
 
       <div> <h2>Asal Negara</h2>
-      <h4 style={{color: "red"}}>{cat.origin}</h4> 
+      <h4 style={{color: "green"}}>{cat.origin}</h4> 
       </div>
     </Row>
     </div>
