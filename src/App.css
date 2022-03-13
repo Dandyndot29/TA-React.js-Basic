@@ -10,6 +10,13 @@
   }
   
   body {
-    background-image: url(http://m.gettywallpapers.com/wp-content/uploads/2021/08/Cat-HD-Wallpaper.jpg);
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/348/422/333/cat-4k-hd-wallpaper-preview.jpg);
     backdrop-filter: blur(1px);
 }
+
+h2 {
+        font-weight: bold;
+        -webkit-text-fill-color: white;
+        -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: #000000;
+    }
